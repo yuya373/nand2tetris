@@ -1,1 +1,4 @@
 /tools
+*.cmp
+*.tst
+*.out
